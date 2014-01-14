@@ -1,0 +1,628 @@
+2013-12-27 13:05:01 Error: [MissingControllerException] Controller class CiNEQUIZController could not be found.
+Exception Attributes: array (
+  'class' => 'CiNEQUIZController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/ciNEQUIZ/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 13:05:03 Error: [MissingControllerException] Controller class CiNEQUIZController could not be found.
+Exception Attributes: array (
+  'class' => 'CiNEQUIZController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/ciNEQUIZ/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 13:27:40 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-28 13:28:04 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-28 13:30:12 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/index.php
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-28 14:27:36 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-28 14:27:38 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-28 14:27:44 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-28 14:27:50 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-28 14:28:39 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/view/1
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-28 14:29:29 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/View
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 14:30:24 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/View/Posts/view.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 14:31:24 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/View/Posts/view.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 14:31:26 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/View/Posts/view.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 14:31:30 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/View/Posts/view.php
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 14:31:38 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/View/Posts/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 14:31:40 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/View/Posts/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 14:31:49 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/view.php
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 15:25:32 Error: [MissingActionException] Action AppController::index.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index.php',
+)
+Request URL: /CINEQUIZ/app/index.php
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 15:32:14 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/view/Posts
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-04 15:33:41 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/view/Posts/index
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-04 15:34:00 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/view/Posts/view
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-04 15:34:06 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/view/Posts/view/1
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-04 15:34:17 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/view/Posts/view/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-04 15:38:28 Error: [MissingHelperException] Helper class ’Html’Helper could not be found.
+Exception Attributes: array (
+  'class' => '’Html’Helper',
+  'plugin' => false,
+)
+Request URL: /CINEQUIZ/posts/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\View\View.php(867): HelperCollection->load('?Html?', Array)
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\View\View.php(341): View->loadHelpers()
+#2 C:\wamp\www\CINEQUIZ\lib\Cake\Controller\Controller.php(1240): View->__construct(Object(PostsController))
+#3 C:\wamp\www\CINEQUIZ\lib\Cake\Controller\Controller.php(938): Controller->_getViewObject()
+#4 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#5 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-01-04 15:42:39 Error: [MissingActionException] Action AppController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index',
+)
+Request URL: /CINEQUIZ/app/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 15:51:35 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 15:55:01 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 15:57:56 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:00:52 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:01:07 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:01:22 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:01:23 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:02:33 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:02:34 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:02:39 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:02:41 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:03:04 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:03:05 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:03:10 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:03:12 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:03:24 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:04:38 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:04:39 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:04:39 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:04:39 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:04:39 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:04:39 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:04:45 Error: [MissingActionException] Action PostsController::index.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index.ctp',
+)
+Request URL: /CINEQUIZ/posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:06:12 Error: [MissingActionException] Action AppController::index.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index.php',
+)
+Request URL: /CINEQUIZ/app/index.php
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:06:14 Error: [MissingActionException] Action AppController::index.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index.php',
+)
+Request URL: /CINEQUIZ/app/index.php
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:06:17 Error: [MissingActionException] Action AppController::index.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index.php',
+)
+Request URL: /CINEQUIZ/app/index.php
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:07:01 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:07:02 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/index.ctp
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:07:10 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/index
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:07:16 Error: [MissingActionException] Action AppController::View() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'View',
+)
+Request URL: /CINEQUIZ/app/View/Posts/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-04 16:47:32 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/view/Posts/view/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-04 16:47:33 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/view/Posts/view/
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-07 18:10:08 Error: [NotFoundException] Invalid post
+Request URL: /CINEQUIZ/posts/view/
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\wamp\www\CINEQUIZ\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\CINEQUIZ\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-01-08 21:34:45 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CINEQUIZ/post
+Stack Trace:
+#0 C:\wamp\www\CINEQUIZ\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
